@@ -1,0 +1,5 @@
+name: RandomNoteBlock
+version: '1.0-SNAPSHOT'
+main: winlyps.randomNoteBlock.RandomNoteBlock
+api-version: '1.20'
+authors: [ Winlyps ]
